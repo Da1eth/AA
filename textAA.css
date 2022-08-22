@@ -12,15 +12,32 @@
   font-weight: 400;
 }
 
-body
+.textAA,.tunaAA
 {
   font-family: 'Saitamaar', 'Nanum Gothic Coding', sans-serif;
   font-size: 16px;
-  line-height: 1.125;
-}
-.aa
-{
   white-space: nowrap;
   overflow-x: scroll;
   overflow-y: hidden;
+  -webkit-text-size-adjust : none;
+  -moz-text-size-adjust : none;
+  -ms-text-size-adjust : none;
+}
+.textAA
+{
+  background-color: #efefef;
+  line-height: 1.125;
+}
+.tunaAA
+{
+  background-color: #ffffff;
+  line-height: 1.1em;
+}
+
+@media all and (max-width: 800px)
+{
+  .textAA,.tunaAA
+  {
+    font-size: 11px;
+  }
 }

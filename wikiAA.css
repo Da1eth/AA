@@ -3,7 +3,6 @@
 {
   font-family: 'Saitamaar';
   src:
-    local('Saitamaar')
     url(https://keage.sakura.ne.jp/fonts/Saitamaar.woff2) format('woff2'),
     url(https://keage.sakura.ne.jp/fonts/Saitamaar.woff) format('woff'),
     url(https://keage.sakura.ne.jp/fonts/Saitamaar.ttf) format('truetype');

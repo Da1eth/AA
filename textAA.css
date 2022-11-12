@@ -15,6 +15,7 @@
 {
   font-family: 'Saitamaar', 'Nanum Gothic Coding', sans-serif;
   font-size: 16px;
+  line-height: 1.125em;
   white-space: nowrap;
   overflow-x: scroll;
   overflow-y: hidden;
@@ -25,12 +26,10 @@
 .textAA
 {
   background-color: #efefef;
-  line-height: 1.125;
 }
 .tunaAA
 {
   background-color: #ffffff;
-  line-height: 1.1em;
 }
 
 @media all and (max-width: 800px)

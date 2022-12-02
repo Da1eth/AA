@@ -17,6 +17,12 @@ tunaAA displays the background-color in #ffffff.
 
 Licensed under the MIT license. - http://www.opensource.org/licenses/mit-license.php
 
+### DOSGothic
+
+Copyright (c) 2016-2022 Damheo Lee - https://github.com/hurss
+
+Licensed under the MIT license. - http://www.opensource.org/licenses/mit-license.php
+
 ### Nanum Gothic Coding
 Copyright (c) 2010, NAVER Corporation - https://www.navercorp.com
 

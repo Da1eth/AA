@@ -1,19 +1,28 @@
-@import url(https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
 @font-face
 {
-  font-family: 'Saitamaar';
+  font-family: 'HeadKasen';
   src:
-    url(https://keage.sakura.ne.jp/fonts/Saitamaar.woff2) format('woff2'),
-    url(https://keage.sakura.ne.jp/fonts/Saitamaar.woff) format('woff'),
-    url(https://keage.sakura.ne.jp/fonts/Saitamaar.ttf) format('truetype');
+    local(HeadKasen)
+    url(https://da1eth.github.io/AA/HeadKasen.ttf) format("truetype");
   font-display: swap;
   font-style: normal;
   font-weight: 400;
 }
+@font-face
+{
+  font-family: 'Nanum Gothic Coding';
+  src:
+    local(HeadKasen)
+    url(https://da1eth.github.io/AA/NanumGothicCoding.ttf) format("truetype");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  unicode-range: U+AC00-D7A3, U+3130-318F;
+}
 
 .textAA,.tunaAA
 {
-  font-family: 'Saitamaar', 'Nanum Gothic Coding', sans-serif;
+  font-family: 'Nanum Gothic Coding', 'HeadKasen';
   font-size: 16px;
   line-height: 1.125em;
   white-space: nowrap;

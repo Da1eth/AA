@@ -2,7 +2,6 @@
 {
   font-family: 'HeadKasen';
   src:
-    local(HeadKasen)
     url(https://da1eth.github.io/AA/HeadKasen.ttf) format("truetype");
   font-display: swap;
   font-style: normal;

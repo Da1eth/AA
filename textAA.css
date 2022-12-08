@@ -12,7 +12,6 @@
 {
   font-family: 'Nanum Gothic Coding';
   src:
-    local(HeadKasen)
     url(https://da1eth.github.io/AA/NanumGothicCoding.ttf) format("truetype");
   font-display: swap;
   font-style: normal;

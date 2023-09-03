@@ -1,8 +1,8 @@
 ## HOW TO USE
 ```html
 <link rel="stylesheet" href="https://da1eth.github.io/AA/textAA.css">
-<div class="textAA">Enter text here</div>
-<div class="tunaAA">Enter text here</div>
+<div class="textAA"><p>Enter text here</p></div>
+<div class="tunaAA"><p>Enter text here</p></div>
 ```
 Copy and paste the above where you want to use it.  
 You can use two class options,

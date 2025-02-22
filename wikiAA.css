@@ -10,9 +10,10 @@
 }
 @font-face
 {
-  font-family: 'Nanum Gothic Coding';
+  font-family: 'NanumGothicCoding';
   src:
-    url(https://da1eth.github.io/AA/NanumGothicCoding.ttf) format("truetype");
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumGothicCoding/D2Coding.woff) format("woff"),
+    url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumGothicCoding/D2Coding.ttf) format("truetype");
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -21,7 +22,7 @@
 
 body
 {
-  font-family: 'Nanum Gothic Coding', 'HeadKasen';
+  font-family: 'NanumGothicCoding', 'HeadKasen';
   font-size: 16px;
   line-height: 1.125;
 }

@@ -15,7 +15,7 @@ wikiAA.css 파일은 [참치백과](https://wiki.tunaground.net/) 용으로 제�
 
 ## License
 ### HeadKasen
-© Daleth
+© Daleth  
 본 폰트는 자유롭게 사용, 수정 및 출처 표기 후 재배포할 수 있으나 폰트 파일 자체를 유료로 판매할 수는 없습니다.
 
 ### Saitamaar
